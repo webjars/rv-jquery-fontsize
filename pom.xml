@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>rv-jquery-fontsize</artifactId>
-    <version>0.2.3</version>
+    <version>0.2.4-SNAPSHOT</version>
     <name>RV Font Size jQuery Plugin</name>
     <description>WebJar for RV Font Size jQuery Plugin</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/rv-jquery-fontsize</url>
         <connection>scm:git:https://github.com/webjars/rv-jquery-fontsize.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/rv-jquery-fontsize.git</developerConnection>
-        <tag>rv-jquery-fontsize-0.2.3</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
